@@ -1,38 +1,168 @@
-.App {
-  text-align: center;
+
+.amid{
+  
+  position: absolute;
+  width: 90px;
+  height: 42px;
+  left: 335px;
+  top: 47px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #124F48;
+
+}
+.big_green{
+  position: absolute;
+  width: 15px;
+  height: 33px;
+  left: 318px;
+  top: 78px;
+  background: #124F48;
+  border-radius: 0px 4px 3px 3px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.orange{
+    
+  position: absolute;
+  width: 17px;
+  height: 23px;
+  left: 310px;
+  top: 83px;
+  background: #FF823B;
+  border-radius: 3px 3px 0px 2px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.green{
+  
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 313px;
+  top: 88px;
+  background: #124F48;
+  border-radius: 5px 5px 5px 5px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.about_amid{
+  position: absolute;
+  /* width: 99px; */
+  /* height: 42px; */
+  left: 570px;
+  top: 27px;
+  font-family: 'Graphik';
+  /* font-style: normal; */
+  font-weight: 500;
+  font-size: 23px;
+  /* line-height: 19px; */
+  color: #0B041B;
+  display: inline-block;
+  position: relative;
+  
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.about_amid::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 73px;
+  width: 35%;
+  height: 2.2px;
+  background-color: rgb(196, 100, 11); /* Chiziq rangini o'zgartiring */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.about_amid span {
+  /* text-decoration: underline; */
+  font-size: 23px; /* "amid" so'zi kichikligini o'zgartiring */
+}
+.features{
+  position: absolute;
+  width: 62px;
+  height: 19px;
+  left: 795px;
+  top: 49px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+
+  color: #464646;
+}
+.portfolio{
+  
+  position: absolute;
+  width: 62px;
+  height: 19px;
+  left: 950px;
+  top: 49px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+
+  color: #464646;
+
+}
+.reviews{
+  position: absolute;
+  width: 59px;
+  height: 19px;
+  left: 1100px;
+  top: 49px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+
+  color: #464646;
+}
+button{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 18px 39px;
+  gap: 10px;
 
-.App-link {
-  color: #61dafb;
-}
+  position: absolute;
+  width: 127px;
+  height: 55px;
+  left: 1400px;
+  top: 58px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  background: #124F48;
+  border-radius: 31.5px 32px 32px 31.5px;
+}
+.login{
+     /* width: 49px; */
+    /* height: 21px; */
+    /* font-family: 'Roboto'; */
+    left: 1500px;
+    top: 68px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
 }

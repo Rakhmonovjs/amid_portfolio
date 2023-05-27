@@ -1,0 +1,331 @@
+.logo_1{
+    margin: 10px;
+    left: 10px;
+    top: 10px;
+    padding: 10px;
+}
+
+
+
+/* NETFLIX */
+  
+.netflix{
+
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 280px;
+    top: 1067px;
+    background: #F1FAF9;
+    border-radius: 10px;
+}
+.netflix_img{
+    position: absolute;
+    width: 215px;
+    height: 82px;
+    left: 20px;
+    top: 10px;
+
+}
+    /* FORBES */
+
+.forbes{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 590px;
+    top: 1067px;
+    background: #F1FAF9;
+    border-radius: 10px;
+}
+.forbes_img{
+    position: absolute;
+    width: 134px;
+    height: 61px;
+    left: 50px;
+    top: 22px;
+}
+
+   /* ITEL */
+
+
+.itel{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 905px;
+    top: 1067px;
+    background: #F1FAF9;
+    border-radius: 10px;
+}
+.itel_img{
+    position: absolute;
+    width: 152px;
+    height: 80px;
+    left: 50px;
+    top: 20px;
+}
+
+/* fedex */
+
+.fedex{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 1220px;
+    top: 1067px;
+    background: #F1FAF9;
+    border-radius: 10px;
+}
+.fedex_img{
+    position: absolute;
+    width: 164px;
+    height: 54px;
+    left: 50px;
+    top: 30px;
+}
+   
+    /* AUDIO */
+
+.audio{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 280px;
+    top: 1193px;
+    background: #F1FAF9;
+    border-radius: 10px;
+}
+.audio_img{
+    position: absolute;
+    width: 121px;
+    height: 63px;
+    left: 60px;
+    top: 20px;
+}
+
+    /* PENGU  */
+
+.pengu{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 590px;
+    top: 1193px;
+
+    background: #F1FAF9;
+    border-radius: 10px;
+}
+.pengu_world{
+    position: absolute;
+    width: 133.63px;
+    height: 23.98px;
+    left: 60px;
+    top: -35px;
+    color: #EC5D0C;
+    font-weight: 600;
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+.pengu_desc{
+    position: absolute;
+    left: 60px;
+    top: 42px;
+    font-weight: 370;
+    font-size: 19px;
+    color: #EC5D0C;
+    letter-spacing: 15px;
+}
+
+  /* ELLIPSE  */
+
+.ellipse{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 905px;
+    top: 1193px;
+    background: #F1FAF9;
+    border-radius: 10px;
+}
+.ellipse_img{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 90px;
+    top: 25px;
+}
+
+  /* GOTO MEETING  */
+
+
+.goto{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 1220px;
+    top: 1193px;
+    background: #F1FAF9;
+    border-radius: 10px;
+}  
+.goto_img{
+    position: absolute;
+    width: 255px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    background: #F1FAF9;
+    border-radius: 10px;
+    
+}
+
+
+           /* BUSSINESS EXACTLY */
+
+    /* SERVIVES ICON */
+.services{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 117px;
+    height: 38px;
+    left: 310px;
+    top: 1396px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F2FAF9;
+    border-radius: 4px;
+}
+.services span{
+    position: absolute;
+    width: 73px;
+    height: 22px;
+    left: 20px;
+    top: 9px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+
+    color: #FF6107;
+
+}
+    /* .exactly */
+
+.exactly{
+
+    position: absolute;
+    width: 534px;
+    height: 154px;
+    left: 280px;
+    top: 1434px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 80px;
+    /* or 182% */
+    
+    
+    color: #021D1A;
+}    
+.exactly_desc{
+    position: absolute;
+    width: 428px;
+    height: 90px;
+    left: 970px;
+    top: 1515px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+
+
+    color: #464646;
+}       
+
+
+/* Bussiness ICONSSS  */
+
+.business_icon1{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 280px;
+    top: 1740px;
+
+    background: #DBFFE9;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+.business_icon1 span{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 13.12%;
+    right: 84.68%;
+    top: 31.23%;
+    bottom: 68.31%;
+
+    
+    background: #101a18;
+}
+.business_grow{
+    position: absolute;
+    width: 302px;
+    height: 28px;
+    left: 280px;
+    top: 1815px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #021D1A;
+}
+.business_grow_desc{
+    position: absolute;
+    width: 350px;
+    height: 81px;
+    left: 280px;
+    top: 1890px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    /* or 200% */
+    
+    
+    color: #464646;
+    
+}
+
+.business_grow_learn{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 280px;
+    top: 2010px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    letter-spacing: 0.05em;
+
+    color: #124F48;
+}
