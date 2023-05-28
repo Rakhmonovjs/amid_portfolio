@@ -51,8 +51,7 @@ const Blog = () => {
                     </div>
 
                 <h2 className='team_h2'>
-                    Upgrowing Economy Needs More  Startups
-                </h2>
+                   Team Has Some Unique Feature - What Yours?                </h2>
                 <p className='team_desc'>
                     We understand how desperatly you want to grow in the business world & our motto is to help you with practicale idea and plan 
                 </p>

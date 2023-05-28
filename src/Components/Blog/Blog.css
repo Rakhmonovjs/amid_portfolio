@@ -208,7 +208,7 @@
 .teamimg{
     position: absolute;
     width: 485px;
-    height: 328px;
+    height: 315px;
     left: 18px;
     top: 43px;
     
@@ -217,8 +217,8 @@
     position: absolute;
     width: 503px;
     height: 30px;
-    left: 25.15px;
-    top: 350px;
+    left: 18.15px;
+    top: 365px;
     
     font-family: 'Roboto';
     font-style: normal;
@@ -237,7 +237,7 @@
     position: absolute;
     width: 496px;
     height: 90px;
-    left: 25px;
+    left: 18px;
     top: 420px;
     
     font-family: 'Roboto';
@@ -255,7 +255,7 @@
     position: absolute;
     width: 141px;
     height: 21px;
-    left: 4px;
+    left: 18px;
     top: 585px;
 
     font-family: 'Roboto';
@@ -274,8 +274,8 @@
     position: absolute;
     width: 75px;
     height: 75px;
-    left: 450px;
-    top: 15px;
+    left: 457px;
+    top: 16px;
     
     background: #124F48;
     border-radius: 10px;
@@ -284,7 +284,7 @@
     position: absolute;
     width: 42px;
     height: 60px;
-    left: 25px;
+    left: 20px;
     top: 10px;
 
     font-family: 'Roboto';
