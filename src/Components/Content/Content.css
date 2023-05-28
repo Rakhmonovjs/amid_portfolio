@@ -1,0 +1,307 @@
+/* achievements */
+
+.achieve{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 161px;
+    height: 38px;
+    left: 280px;
+    top: 2240px;
+
+    background: #FFFFFF;
+    border: 1px solid #c7caca;
+    border-radius: 4px;
+}
+
+.achieve_in{
+    
+    position: absolute;
+    width: 119px;
+    height: 22px;
+    left: 20px;
+    top: 10px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+
+    color: #FF6107;
+}
+
+/* WE wORKED */
+
+.we_worked{
+    position: absolute;
+    width: 601px;
+    height: 276px;
+    left: 280px;
+    top: 2290px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 88px;
+    color: #021D1A;
+/* or 182% */
+
+
+color: #021D1A;
+
+}
+.we_worked span{
+    color: #FF823B;
+}
+
+/* 9k+ */
+
+.w9k{
+    position: absolute;
+    width: 60px;
+    height: 80px;
+    left: 1010px;
+    top: 2254px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    /* identical to box height, or 222% */
+    
+    
+    color: rgba(18, 79, 72, 0.37);
+    
+}
+
+.completed{
+    position: absolute;
+    width: 122px;
+    height: 52px;
+    left: 1140px;
+    top: 2340px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+    
+    
+    color: #124F48;
+    
+}
+
+.from789{
+    position: absolute;
+    width: 143px;
+    height: 26px;
+    left: 1350px;
+    top: 2371px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 26px;
+    /* identical to box height, or 186% */
+    
+    
+    color: #FF823B;
+}
+
+/* w924 */
+
+.w924{
+
+    position: absolute;
+    width: 82px;
+    height: 80px;
+    left: 1010px;
+    top: 2364px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    /* identical to box height, or 222% */
+    
+    
+    color: rgba(18, 79, 72, 0.37);
+}
+
+.statis{
+    position: absolute;
+    width: 146px;
+    height: 52px;
+    left: 1140px;
+    top: 2450px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+    
+    
+    color: #124F48;  
+}
+
+.from100{
+    position: absolute;
+    width: 133px;
+    height: 26px;
+    left: 1350px;
+    top: 2481px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 26px;
+    /* identical to box height, or 186% */
+    
+    
+    color: #FF823B;
+}
+
+
+
+/* .w416 */
+
+.w416{
+
+    position: absolute;
+    width: 63px;
+    height: 80px;
+    left: 1010px;
+    top: 2474px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    /* identical to box height, or 222% */
+    
+    
+    color: rgba(18, 79, 72, 0.37);
+}
+
+.expert{
+    position: absolute;
+    width: 127px;
+    height: 52px;
+    left: 1140px;
+    top: 2560px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+    
+    
+    color: #124F48;
+}
+
+.from20{
+    position: absolute;
+    width: 125px;
+    height: 26px;
+    left: 1350px;
+    top: 2591px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 26px;
+    /* identical to box height, or 186% */
+    
+    
+    color: #FF823B;
+}
+
+
+
+/* .w3024 */
+
+.w3024{
+    position: absolute;
+    width: 83px;
+    height: 80px;
+    left: 1010px;
+    top: 2584px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    /* identical to box height, or 222% */
+    
+    
+    color: rgba(18, 79, 72, 0.37);
+    
+}
+.smartup{
+
+    position: absolute;
+    width: 114px;
+    height: 52px;
+    left: 1140px;
+    top: 2670px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+    
+    
+    color: #124F48;   
+}
+
+.from1000{
+    position: absolute;
+    width: 145px;
+    height: 26px;
+    left: 1350px;
+    top: 2701px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 26px;
+    /* identical to box height, or 186% */
+    
+    
+    color: #FF823B;
+    
+}
+
+
+/* ///////////////////////////// */
+
+/* Stay FIT  */
+
+.stayfit{
+
+    position: absolute;
+    width: 511px;
+    height: 600px;
+    left: 280px;
+    top: 2525px;
+    
+    background: #EDFFFD;
+    border-radius: 20px;
+}

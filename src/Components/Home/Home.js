@@ -2,6 +2,7 @@ import React from 'react'
 import './Home.css'
 import girl from '../../assets/girl.png'
 import Hero from '../Hero/Hero'
+import Content from '../Content/Content'
 
 const Home = () => {
   return (
@@ -66,6 +67,7 @@ const Home = () => {
 
       </div>
       <Hero/>
+      <Content/>
     </div>
   )
 }
