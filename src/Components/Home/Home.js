@@ -3,6 +3,7 @@ import './Home.css'
 import girl from '../../assets/girl.png'
 import Hero from '../Hero/Hero'
 import Content from '../Content/Content'
+import Blog from '../Blog/Blog'
 
 const Home = () => {
   return (
@@ -68,6 +69,7 @@ const Home = () => {
       </div>
       <Hero/>
       <Content/>
+      <Blog/>
     </div>
   )
 }

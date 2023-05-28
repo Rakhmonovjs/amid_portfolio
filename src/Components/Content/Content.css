@@ -302,8 +302,8 @@ color: #021D1A;
     left: 280px;
     top: 2525px;
     
-    background: #4ab4a8;
-    border-radius: 20px;
+    background: #EDFFFD; 
+   border-radius: 20px;
 }
 
 .stayfitimg{
@@ -388,9 +388,102 @@ color: #021D1A;
     position: absolute;
     width: 244px;
     height: 57px;
-    left: 163px;
-    top: 336px;
+    left: 0px;
+    top: 845px;
     
     background: #FF823B;
     border-radius: 31.5px;  
+}
+.job_view span{
+    position: absolute;
+    width: 175px;
+    height: 21px;
+    left: 36px;
+    top: 18px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+    
+}
+
+
+
+/* /////////////// */
+/* Cent //// */
+
+
+.cent{
+
+    position: absolute;
+    width: 511px;
+    height: 600px;
+    left: 973px;
+    top: 2800px;
+    
+    background: #FFF8F4;
+    border-radius: 20px;
+
+}
+.cent_in{
+    position: absolute;
+    width: 510px;
+    height: 316px;
+    left: 0;
+    top: 283px;
+    border-radius: 1000px 1000px 10px  10px ; 
+    background: #124F48;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+
+.centimg{
+    position: relative;
+    left: 5px;
+    top: 25px;
+    filter: drop-shadow(0px 34px 80px rgba(80, 153, 145, 0.24));
+    border-radius: 20px;
+}
+.cent_pay{
+
+    position: absolute;
+    width: 411px;
+    height: 28px;
+    left: 0px;
+    top: 620px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+}
+.cent_desc{
+    position: absolute;
+    width: 511px;
+    height: 108px;
+    left: 0px;
+    top: 700px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 36px;
+    /* or 200% */
+    
+    
+    color: #464646;
 }

@@ -1,6 +1,7 @@
 import React from 'react'
 import './Content.css'
 import stayfitimg from '../../assets/stayfitimg.png'
+import centimg from '../../assets/centimg.png'
 
 const Content = () => {
   return (
@@ -26,7 +27,7 @@ const Content = () => {
                 <h3 className='jobhub'>JobHub Job Finding Website </h3>
                 <p className='jobhub_desc'>This website has become one of the best ux interface  for users with an beautiful ui and also lucrative fot upcoming startups in the sectors</p>
                 <h6 className='job_view'>
-                    <span> View More Work</span>
+                    <span> View More Work -</span>
                 </h6>
             </div>
         
@@ -51,6 +52,25 @@ const Content = () => {
 
         </div>
 
+        <div className='cent'>
+            <div className='cent_in'>
+                    {/* <hr className='orange_line'/>  */}
+            </div>
+            <img src={centimg} alt='centimg' className='centimg'/>
+
+            <div>
+                <h3 className='cent_pay'>
+                     CENT - Payment App Landing Website
+                </h3>
+                <p className='cent_desc'>
+                    This website has become one of the best ux interface 
+                    for users with an beautiful ui and also lucrative fot 
+                    upcoming startups in the sectors
+                </p>
+            </div>
+
+        </div>
+            
     </div>
   )
 }

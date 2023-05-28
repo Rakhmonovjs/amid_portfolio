@@ -1,0 +1,300 @@
+/* Blog */
+/* ////////// */
+
+.blog{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 94px;
+    height: 38px;
+    left: 835px;
+    top: 3770px;
+
+    background: #FFFFFF;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+.blog_in{
+    position: absolute;
+    width: 37px;
+    height: 19px;
+    left: 24px;
+    top: -16px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    letter-spacing: 0.1em;
+
+    color: #FF6107;
+}
+
+
+/* /////// */
+
+/* We Publish  */
+
+
+.we_publish{
+
+    position: absolute;
+    width: 669px;
+    height: 63px;
+    left: 555px;
+    top: 3820px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 80px;
+    /* or 182% */
+    
+    text-align: center;
+    
+    color: #021D1A;
+}
+.publish_desc{
+    position: absolute;
+    width: 602px;
+    height: 60px;
+    left: 595px;
+    top: 3920px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    
+    text-align: center;
+    
+    color: #464646;
+}
+
+/* ///////////// */
+/* Foto  */
+
+.upgrow{
+
+    position: absolute;
+    width: 520px;
+    height: 649px;
+    left: 280px;
+    top: 4130px;
+    background: #FFFFFF;
+    box-shadow: 20px 24px 114px #F5F5F5;
+    border-radius: 10px;
+}
+
+.upgimg{
+    position: absolute;
+    width: 460px;
+    height: 299.96px;
+    left: 30px;
+    top: 30px;
+}
+.data{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 445px;
+    top: 0px;
+
+    background: #124F48;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px; 
+}
+.data span{
+    position: absolute;
+    width: 42px;
+    height: 60px;
+    left: 18px;
+    top: 10px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    /* or 125% */
+    
+    
+    color: #FFFFFF;
+}
+.upg_h2{
+    position: absolute;
+    width: 463px;
+    height: 30px;
+    left: 30px;
+    top: 350px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+    
+    
+    color: #000000;
+}
+
+.upg_desc{
+    position: absolute;
+    width: 496px;
+    height: 90px;
+    left: 30px;
+    top: 420px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    
+    
+    color: #464646;
+}
+.learn{
+
+    position: absolute;
+    width: 203px;
+    height: 57px;
+    left: 30px;
+    top: 550px;
+    
+    background: #FF823B;
+    border-radius: 31.5px;
+}
+.learn span{
+    position: absolute;
+    width: 141px;
+    height: 21px;
+    left: 39px;
+    top: 18px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+}
+
+/* Team */
+
+/* ......... */
+.team{
+    position: absolute;
+    width: 520px;
+    height: 649px;
+    left: 1090px;
+    top: 4130px;
+    background: #FFFFFF;
+    box-shadow: 20px 24px 114px #F5F5F5;
+    border-radius: 10px;
+}
+.teamimg{
+    position: absolute;
+    width: 485px;
+    height: 328px;
+    left: 18px;
+    top: 43px;
+    
+}
+.team_h2{
+    position: absolute;
+    width: 503px;
+    height: 30px;
+    left: 25.15px;
+    top: 350px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+    
+    
+    color: #000000;
+    
+    transform: rotate(0.29deg);  
+}
+
+.team_desc{
+    position: absolute;
+    width: 496px;
+    height: 90px;
+    left: 25px;
+    top: 420px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    
+    
+    color: #464646;   
+}
+
+.team_learn span{
+    position: absolute;
+    width: 141px;
+    height: 21px;
+    left: 4px;
+    top: 585px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    letter-spacing: 0.05em;
+
+    color: #124F48;
+
+}
+.team_data{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 450px;
+    top: 15px;
+    
+    background: #124F48;
+    border-radius: 10px;
+}
+.team_data span{
+    position: absolute;
+    width: 42px;
+    height: 60px;
+    left: 25px;
+    top: 10px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    /* or 125% */
+
+
+    color: #FFFFFF;
+
+}
