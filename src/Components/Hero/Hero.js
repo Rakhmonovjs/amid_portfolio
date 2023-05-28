@@ -57,9 +57,11 @@ const Hero = () => {
                 </p>
             </div>
         </div>
+
+
         {/* bussiness iconss */}
-        <div>
-            <div>
+        <div className='bussiness1'>
+            <div >
                 <div className='business_icon1'>
                         <span></span>
                 </div>
@@ -71,10 +73,44 @@ const Hero = () => {
                         business startup
                 </p>
 
-                <span className='business_grow_learn'>Learn More - </span>
+                <span className='business_grow_learn'>Learn More ➡️ </span>
             </div>
         </div>
-      
+
+        {/* Business icons 2 */}
+
+        <div className='community'>
+            <div className='community_icon'>
+                <span></span>
+            </div>
+            <h4 className='community_attach'>
+                Community Attachment
+            </h4>
+            <p className='community_attach_desc'>
+                A lifetime attachment with the community dreamer
+            </p>
+            <span className='community_learn'>
+                <p>Learn More  ➡️ </p>
+            </span>
+        </div>
+
+        {/* Exceptional Discovery Plans */}
+
+        <div className='excap'>
+            <div className='excep_icon'>
+                <span> </span>
+            </div>
+            <div className='excep_discov'>
+                Exceptional Discovery Plans
+            </div>
+            <div className='excep_desc'>
+                An exceptional plan can take you ahead millions of step which  we discove
+            </div>
+            <div className='excep_learn'>
+                Learn More  ➡️ 
+            </div>
+        </div>
+
     </div>
   )
 }
