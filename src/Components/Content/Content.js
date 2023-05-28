@@ -1,6 +1,6 @@
 import React from 'react'
 import './Content.css'
-
+import stayfitimg from '../../assets/stayfitimg.png'
 
 const Content = () => {
   return (
@@ -16,9 +16,20 @@ const Content = () => {
         </div>
 
         <div className='stayfit'>
+           
             <div className='stayfit_in'>
-
+                {/* <hr className='orange_line'/> */}
             </div>
+            <img src={stayfitimg} alt='stayfitimg' className='stayfitimg'/>
+
+            <div className='stay_job'>
+                <h3 className='jobhub'>JobHub Job Finding Website </h3>
+                <p className='jobhub_desc'>This website has become one of the best ux interface  for users with an beautiful ui and also lucrative fot upcoming startups in the sectors</p>
+                <h6 className='job_view'>
+                    <span> View More Work</span>
+                </h6>
+            </div>
+        
         </div>
 
         <div>
