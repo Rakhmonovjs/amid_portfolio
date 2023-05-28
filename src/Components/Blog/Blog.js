@@ -47,7 +47,7 @@ const Blog = () => {
             <div className='team'>
                 <img src={teamimg} alt='teamimg' className='teamimg' />
                     <div className='team_data'>
-                        <span>22 Dec</span>
+                        <span>16 Dec</span>
                     </div>
 
                 <h2 className='team_h2'>

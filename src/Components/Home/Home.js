@@ -4,6 +4,7 @@ import girl from '../../assets/girl.png'
 import Hero from '../Hero/Hero'
 import Content from '../Content/Content'
 import Blog from '../Blog/Blog'
+import Footer from '../Footer/Footer'
 
 const Home = () => {
   return (
@@ -70,6 +71,7 @@ const Home = () => {
       <Hero/>
       <Content/>
       <Blog/>
+      <Footer/>
     </div>
   )
 }
